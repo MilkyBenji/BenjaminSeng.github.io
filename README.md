@@ -1,4 +1,4 @@
-# This is my ersonal Portfolio Website
+# This is my Personal Portfolio Website
 
 This is my personal portfolio website, built using React.js, Bootstrap, and RxJS for the frontend, with a Node.js backend that includes email functionality. The project is currently in development, and more content will be added in future updates.
 
